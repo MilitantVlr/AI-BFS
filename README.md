@@ -1,6 +1,6 @@
 # AI-BFS
 # Ex.No: 1  Implementation of Breadth First Search 
-### DATE: 17.2.24                                                                        
+### DATE: 10/02/24                                                                        
 ### REGISTER NUMBER : 212221040145
 ### AIM: 
 To write a python program to implement Breadth first Search. 
